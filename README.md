@@ -8,5 +8,4 @@ Companion repository for the ICCE 2026 poster *"Living Breakwaters in High-Energ
 Here are the things you probably want:
 - 🎞️ **Animations** of the storm and calm-forcing tracer plumes → [`figures/`](figures/)
 - 📄 **Poster PDF** (1.7 × 1.3 m, ICCE 2026) → [`poster/Poster.pdf`](poster/Poster.pdf)
-- 💻 **Tracer code** (Python/NumPy, TVD finite-volume) → [`src/`](src/)
 - 📧 Questions: **alejandroangel@ucla.edu**
